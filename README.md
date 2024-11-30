@@ -4,7 +4,6 @@ Extracts words and descriptions out of an PDF file into an Excel sheet. Works fo
 
 ### How to use:
 Insert the file path of the PDF with the vocabulary into the `file` variable as string. (line 8)
-
 Write the side you want to start and end the extraction into `sides` variable. (line 9).
 
 > [!warning]
